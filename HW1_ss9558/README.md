@@ -18,6 +18,7 @@ My neighbor in this assign is cx495.
 5. Screenshot of my terminal that shows this series of commands and output
 
 ![Screenshot 2 Assignment 2: my terminal output](hw1_2.png)
+
 6. I created a new github repo and one on my local machine,linked them.
 7. I created a directory HW1_ss9558
 8. I added a README.md file to describe my homework 1.
