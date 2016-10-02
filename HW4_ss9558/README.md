@@ -3,4 +3,4 @@
 
 | **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
-t test	| 1, Ranks of values | ordinal | 1, did Self Affirmation or no| categorical | 1, age | continuous (could also be categoridcal) | 	Do participants in self-affirmation rak  value significantly higher than control group | Ranks test groups <= Ranks control group | 0.05 | [Self-Affirmation Improves Problem-Solving under Stress]
+t test	| 1, Morph color | dichotomous | 1, corolla length between red and yellow morphs| continuous | 0 |  | 	does corolla length significantly different between red and yellow morphs | red morphs corolla length= yellow morphs corolla length | 0.1 | [Pollinator Competition as a Driver of Floral Divergence: An Experimental Test]
