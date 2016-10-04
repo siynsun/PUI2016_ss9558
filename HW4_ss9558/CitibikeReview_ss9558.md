@@ -10,3 +10,5 @@ c. Given the type of data, I would choose a T test.
 ##You can refer to the flowchart of statistical tests for this in the slides, or to the CSU cheat-sheet here, of Statistics in a Nutshell.
 
 Write your comments, suggestions, and suggested statistical test, motivating your test choice
+
+Submit a pull request to the original repository.
