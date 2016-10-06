@@ -6,7 +6,7 @@ Detailed assignment is in the following markdown file:
 https://github.com/siynsun/PUI2016_ss9558/blob/master/HW4_ss9558/CitibikeReview_ss9558.md
 ## Assignment 2
 
-I finished assignment 2 by myself.
+I worked with Chunqing Xu for assignment 2. We chose different cases but we discussed those concepts together.
 
 | **Statistical Analyses	|  IV(s)  |  IV type(s) |  DV(s)  |  DV type(s)  |  Control Var | Control Var type  | Question to be answered | _H0_ | alpha | link to paper **| 
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
@@ -15,7 +15,9 @@ Path analysis | 3,Expressed emotions,Acoustic measures,Proximal percepts | conti
 
 ## Assignment 3
 
+I finished assignment 3 by myself.
+
 ## Assignment 4
 
-I finished assignment 4 by myself.
+I worked with Chunqing Xu for this assignment.
 
