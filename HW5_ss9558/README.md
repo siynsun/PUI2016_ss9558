@@ -4,9 +4,10 @@ Authors: Chunqing Xu, Franz Loza, Jianghao Zhu, Siyang Sun
 Contributions:
 
 Team worked collaboratively on assignments 1 and 2. 
+I learn a lot from Franz. 
 
 ## Assignment 3
-#### Set significance level $ \alpha =0.05$ for all experiments.
+#### Set significance level p=0.05 for all experiments.
 ### Experiment 1
 #### Question: Do diets help lose more fat than the exercise?
 Design of Experiment: 
