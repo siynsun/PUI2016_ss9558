@@ -21,7 +21,7 @@ H0:S0<=S1
 
 H1:S0>S1
 
-$$ \alpha $$=0.05
+$\alpha$=0.05
 ### Experiment 2
 #### Do American trust the president?
 POLL RESULTS: On May 16, 1994, Newsweek reported the results of a public opinion poll that asked: “From everything you know about Bill Clinton, does he have the honesty and integrity you expect in a president?” (p. 23). Poll surveyed 518 adults and 233, or 0.45 of them answered yes.
