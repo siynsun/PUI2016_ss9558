@@ -1,2 +1,8 @@
-# PUI2016_ss9558
-This repository contains the assignments for NYU CUSP-5003 Principles of Urban Informatics 2016.
+# HW 5
+Authors: Chunqing Xu, Franz Loza, Jianghao Zhu, Siyang Sun
+
+Contributions:
+
+Team worked collaboratively on assignments 1 and 2. 
+
+## Assignment 3
