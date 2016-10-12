@@ -41,7 +41,7 @@ H0:S0[cessation rate of nicotine patch users] - S1[cessation rate of placebo pat
 
 H1:S0[cessation rate of nicotine patch users] - S1[cessation rate of placebo patch group] > 0
 
-$$ \alpha =0.05 $$
+alpha=0.05
 ### Experiment 4
 #### Quantify the danger of smoking for pregnant women.
 Experimemtal setup: measure IQ of children at ages 1, 2, 3, and 4 years of age.
@@ -50,4 +50,4 @@ Null hypothesis: The average IQ of chidren whose mothers smoke during pregnant (
 H0:S_smoke >= S_not
 
 H1:S_smoke < S_not
-$$ \alpha $$=0.05
+alpha=0.05
