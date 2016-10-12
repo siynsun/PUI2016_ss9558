@@ -6,7 +6,7 @@ Contributions:
 Team worked collaboratively on assignments 1 and 2. 
 
 ## Assignment 3
-#### Set significance level $$ \alpha $$=0.05 for all experiments.
+#### Set significance level $ \alpha =0.05$ for all experiments.
 ### Experiment 1
 #### Question: Do diets help lose more fat than the exercise?
 Design of Experiment: 
