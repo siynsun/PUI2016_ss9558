@@ -1,1 +1,4 @@
-HW6
+## HW6
+Author: Siyang Sun 
+
+For homework 3, I work in a group. The group includes Chunqing Xu, Jianghao Zhu, Franz Howell Loza and me. Everyone contributes to assignment 1&2.
