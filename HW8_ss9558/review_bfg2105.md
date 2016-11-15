@@ -1,4 +1,4 @@
-<c>![Screenshot 1 Assignment 8: my .bashrc](https://github.com/siynsun/PUI2016_bg1672/blob/master/HW7_bg1672.png?raw=true)
+<c>![Screenshot 1 Assignment 8: my .bashrc](https://github.com/siynsun/PUI2016_ss9558/blob/master/HW8_ss9558/HW7_bgf2105.png)
 </c>
 <br><br>
 Bailey's scatter plot shows the relationship between stations and the number of rides for different genders as the caption accurately describes. The caption also mentions the source of the data and the time period,which is nice. 
