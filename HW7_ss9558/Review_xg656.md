@@ -1,4 +1,4 @@
-![Plot] (https://github.com/gaogxb/PUI2016_xg656/blob/master/HW8_xg656/plot_st1671.png)
+![Plot] (https://github.com/gaogxb/PUI2016_xg656/blob/master/HW8_xg656/plot_ss9558.png)
 
 
 Reviewer:Xianbo Gao, xg656.
