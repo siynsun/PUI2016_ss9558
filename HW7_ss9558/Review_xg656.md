@@ -3,16 +3,12 @@
 
 Reviewer:Xianbo Gao, xg656.
 
-Generally speaking, it's able to read the plot, but there's room for improvement.
+Generally speaking, it's good plot which shows information clearly.
 
 
-The first plot should move up so that it won't cover the title "Temperature".
-The x-axis labels and y-axis labels are needed. Besides, it is recommanded to add the units of x and y quantities as well.
-There are two lines: one dotted line and one solid line. The label of these lines are needed.
-There are altogether 4 plots but there's only two titles. Besides, the titles can be more specificated to incated more information.
+There are x-axis labels, y-axis labels and legends. These labels provide useful information. However, the title is missing. A title can clearly indicate what the plot want to show.
 
-The plot is a bit small and crowded. Besides, it's not necessary to use dot lines in 2nd, 3rd and 4th plot.
-3rd and 4th plot looks exactly the same. In order to provide more information, maybe it's better to use other methods such as plotting something like error bar.
+The plot is big and clear. The colors are simple and distinguishable. The labels are cleaer as well. It's a beautiful plot.
+However, the widths of red bars and blue bars are not the same. It's better to use same width. There's a possibility that red bars cover blue bars. It's better to stack them.
 
-
-The plot honestly reproduced the data.
+The plot honestly reproduced the data. It's an honest plot.
