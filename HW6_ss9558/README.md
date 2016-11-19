@@ -11,3 +11,6 @@ The citi-bike mini project write up:
 The github repo:
 
 [Citibike mini project notebook](https://github.com/siynsun/PUI2016_ss9558/blob/master/HW3_ss9558/HW3_assign2.ipynb)
+
+# FBB your group was supposed to write a single, collaborative report
+analysis is ok, but you did not use any of the features of the authorea platform: you did not embed your notebook, you did not write equations. See more comments in the authorea atricle
